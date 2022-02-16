@@ -2,6 +2,8 @@
 
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> กีตาร์ 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=dudkinox&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 I'm World, Front-end Developer from Thailand who loves Vue.js and Americano. 😎 ☕️
 
 I'm currently learning on Vue.js and React.js with passionate to find passionate projects for contributing.
@@ -10,8 +12,6 @@ You can follow me on my FB Page, [Vue News Thailand](https://www.facebook.com/Vu
 
 
 Nice to meet you. 😁
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=runyasak&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=runyasak&show_icons=true&theme=dark" height="170" />
