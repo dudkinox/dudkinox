@@ -21,7 +21,6 @@ Nice to meet you.🙄
 ### 📊 GitHub Stats:
 ---
 ![กีตาร์ github stats](https://github-readme-stats.vercel.app/api?username=dudkinox&theme=radical&show_icons=true&count_private=true)
-<br>
 ![กีตาร์ github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dudkinox&theme=radical&count_private=true&show_icons=true)
 
 ![กีตาร์ Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dudkinox&theme=solarized_dark)
