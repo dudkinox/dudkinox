@@ -9,7 +9,7 @@ I'm World, Front-end Developer from Thailand who loves Vue.js and Americano. ğŸ˜
 
 I'm currently learning on Vue.js and React.js with passionate to find passionate projects for contributing.
 
-You can follow me on my FB Page, [Vue News Thailand](https://www.facebook.com/VueNewsThailand).
+You can follow me on my FB Page, [Facebook](https://web.facebook.com/blind.vlltar).
 
 
 Nice to meet you. ğŸ˜
