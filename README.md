@@ -10,7 +10,7 @@ I'm not good at English. 🤔
 
 You can follow me on, <br>
 <a href = "https://web.facebook.com/blind.vlltar" target="blank">
-  <img src="https://img.icons8.com/doodle/30/000000/facebook-new.png"/>
+  <img src="https://img.icons8.com/fluency/30/000000/facebook-new.png"/>
 </a>
 <a href = "https://www.instagram.com/sorenergame/?hl=en" target="blank">
   <img src="https://img.icons8.com/office/30/000000/instagram-new.png"/>
