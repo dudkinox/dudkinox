@@ -5,11 +5,11 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=dudkinox&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=dudkinox)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-I'm World, Front-end Developer from Thailand who loves Vue.js and Americano. 😎 ☕️
+😎 ☕️
 
-I'm currently learning on Vue.js and React.js with passionate to find passionate projects for contributing.
+I'm not good at Everything coding.
 
-You can follow me on my FB Page, [Facebook](https://web.facebook.com/blind.vlltar).
+You can follow me on my FB, [Suphanat Chinnarach](https://web.facebook.com/blind.vlltar).
 
 
 Nice to meet you. 😁
