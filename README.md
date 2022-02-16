@@ -3,7 +3,7 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> กีตาร์ 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dudkinox&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-[![trophy](https://github-profile-trophy.vercel.app/?username=dudkinox)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=dudkinox)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 I'm World, Front-end Developer from Thailand who loves Vue.js and Americano. 😎 ☕️
 
