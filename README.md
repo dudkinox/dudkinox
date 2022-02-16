@@ -8,8 +8,7 @@
 🤤
 I'm not good at English. 🤔
 
-You can follow me on, 
-<br>
+You can follow me on, <br>
 <a href = "https://web.facebook.com/blind.vlltar" target="blank">
   <img src="https://img.icons8.com/doodle/30/000000/facebook-new.png"/>
 </a>
