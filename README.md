@@ -7,7 +7,7 @@
 
 😎 ☕️
 
-I'm not good at Everything coding.
+I'm not good at English.
 
 You can follow me on my FB, [Suphanat Chinnarach](https://web.facebook.com/blind.vlltar).
 
