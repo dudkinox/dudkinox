@@ -18,3 +18,11 @@ Nice to meet you.🙄
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudkinox&layout=compact&theme=dark" />
   </div>
 </center>
+
+### 📊 GitHub Stats:
+---
+![กีตาร์ github stats](https://github-readme-stats.vercel.app/api?username=dudkinox&theme=radical&show_icons=true&count_private=true)
+
+![กีตาร์ Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dudkinox&theme=solarized_dark)
+![กีตาร์ Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dudkinox&theme=solarized_dark)
+![กีตาร์ Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dudkinox&theme=solarized_dark)
