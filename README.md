@@ -16,7 +16,7 @@ You can follow me on, <br>
   <img src="https://img.icons8.com/office/30/000000/instagram-new.png"/>
 </a>
 
-Nice to meet you.🙄
+Nice to meet you. 🙄
 
 <!-- <center> -->
 <!--   <div> -->
