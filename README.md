@@ -32,7 +32,7 @@ Nice to meet you. 🙄
 ![กีตาร์ Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dudkinox&theme=solarized_dark&count_private=true)
 ![กีตาร์ Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dudkinox&theme=solarized_dark&count_private=true)
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack from Thailand</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
