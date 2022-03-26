@@ -34,7 +34,6 @@ Nice to meet you. 🙄
 
 <h3 align="center">A passionate fullstack from Thailand</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
