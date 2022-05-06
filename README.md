@@ -6,7 +6,7 @@
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=dudkinox)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 🤤
-I'm work work work and then work. 🤔
+I'm work work work and then work. 🤔 
  
 You can follow me on,<br>
 <a href = "https://web.facebook.com/blind.vlltar" target="blank">
