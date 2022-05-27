@@ -5,7 +5,7 @@
  [![trophy](https://github-profile-trophy.vercel.app/?username=dudkinox&theme=dark_lover&count_private=true&column=7&margin-w=15&margin-h=15)]()
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=dudkinox)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-🤤
+🤤 
 I'm work work work and then work. 🤔
 
 You can follow me on,<br>
