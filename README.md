@@ -27,7 +27,7 @@ Nice to meet you. 🙄
 <!--   </div> -->
 <!-- </center> --> 
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats: 
 --- 
 ![กีตาร์ github stats](https://github-readme-stats.vercel.app/api?username=dudkinox&theme=radical&show_icons=true&count_private=true)
 <!-- ![กีตาร์ github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dudkinox&theme=radical&count_private=true&show_icons=true) -->
