@@ -17,7 +17,7 @@ You can follow me on,<br>
 </a>
 <a href = "https://www.instagram.com/sorenergame/?hl=en" target="blank"> 
   <img src="https://img.icons8.com/office/30/000000/instagram-new.png"/>
-</a>
+</a> 
 
 Nice to meet you. 🙄
 
