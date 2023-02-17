@@ -38,7 +38,7 @@ Nice to meet you. 🙄
 <h3 align="center">A passionate fullstack from Thailand 
 
 </h3>
-[![HISTORY Github](https://github-readme-streak-stats.herokuapp.com?user=dudkinox&theme=neon-dark&hide_border=false&mode=weekly)]([https://github.com/dudkinox])
+[![HISTORY Github](https://github-readme-streak-stats.herokuapp.com?user=dudkinox&theme=neon-dark&hide_border=false&mode=weekly)](https://github.com/dudkinox)
 
 <p align="left">
 </p> 
