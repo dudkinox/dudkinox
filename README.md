@@ -35,9 +35,10 @@ Nice to meet you. 🙄
 ![กีตาร์ Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dudkinox&theme=solarized_dark&count_private=true)
 ![กีตาร์ Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dudkinox&theme=solarized_dark&count_private=true)
 
-<h3 align="center">A passionate fullstack from Thailand <br>
-[![HISTORY Github](https://github-readme-streak-stats.herokuapp.com?user=dudkinox&theme=neon-dark&hide_border=false&mode=weekly)]([https://github.com/dudkinox])
+<h3 align="center">A passionate fullstack from Thailand 
+
 </h3>
+[![HISTORY Github](https://github-readme-streak-stats.herokuapp.com?user=dudkinox&theme=neon-dark&hide_border=false&mode=weekly)]([https://github.com/dudkinox])
 
 <p align="left">
 </p> 
