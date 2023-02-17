@@ -8,6 +8,8 @@
  [![trophy](https://github-profile-trophy.vercel.app/?username=dudkinox&theme=dark_lover&count_private=true&column=7&margin-w=15&margin-h=15)]()
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=dudkinox)](https://github.com/ryo-ma/github-profile-trophy) -->
 
+[![HISTORY Github](https://github-readme-streak-stats.herokuapp.com?user=dudkinox&theme=neon-dark&hide_border=false&mode=weekly)](https://github.com/dudkinox/dudkinox)
+
 🤤 
 I'm work work work and then work. 🤔
 
@@ -36,7 +38,7 @@ Nice to meet you. 🙄
 ![กีตาร์ Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dudkinox&theme=solarized_dark&count_private=true)
 
 <h3 align="center">A passionate fullstack from Thailand </h3>
-[![HISTORY Github](https://github-readme-streak-stats.herokuapp.com?user=dudkinox&theme=neon-dark&hide_border=false&mode=weekly)](https://github.com/dudkinox/dudkinox)
+
 
 <p align="left">
 </p> 
