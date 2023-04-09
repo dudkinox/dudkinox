@@ -7,6 +7,7 @@
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=dudkinox&theme=dark_lover&count_private=true&column=7&margin-w=15&margin-h=15)]()
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=dudkinox)](https://github.com/ryo-ma/github-profile-trophy) -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=dudkinox&theme=radical&column=7&margin-w=15&margin-h=15)]()
 
 [![HISTORY Github](https://github-readme-streak-stats.herokuapp.com?user=dudkinox&theme=neon-dark&hide_border=false&mode=weekly)](https://github.com/dudkinox/dudkinox)
 
