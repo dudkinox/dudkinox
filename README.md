@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/dudkinox/dudkinox/main/img/headerImage.jpeg"></p></a>
 <!-- [![Header](https://raw.githubusercontent.com/dudkinox/dudkinox/main/img/headerImage.jpeg "Header")](https://web.facebook.com/groups/625748778716789/?notif_id=1644983509296251&notif_t=group_r2j_approved&ref=notif)  -->
 
-# กีตาร์  
+# กีตาร์
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=dudkinox&theme=dark_lover&count_private=true&column=7&margin-w=15&margin-h=15)]()
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=dudkinox)](https://github.com/ryo-ma/github-profile-trophy) -->
