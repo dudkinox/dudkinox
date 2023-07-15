@@ -42,6 +42,7 @@ Nice to meet you. 🙄
 ![กีตาร์ Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dudkinox&theme=solarized_dark&count_private=true)
 
 <h3 align="center">A passionate fullstack from Thailand </h3>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dudkinox)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="left">
