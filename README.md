@@ -11,9 +11,6 @@
 
 <!-- [![HISTORY Github](https://github-readme-streak-stats.herokuapp.com?user=dudkinox&theme=neon-dark&hide_border=false&mode=weekly)](https://github.com/dudkinox/dudkinox) -->
 
-### Stats
-[![HISTORY Github](https://github-readme-streak-stats.herokuapp.com?user=dudkinox&theme=neon-dark&hide_border=false&mode=weekly)](https://github.com/dudkinox)
-
 🤤 
 I'm work work work and then work. 🤔
 
