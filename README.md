@@ -11,6 +11,7 @@
 ---
 
 ## 👨‍💻 About Me
+```js
 const guitar = {
   name: "Guitar",
   role: "Fullstack Developer",
@@ -19,6 +20,7 @@ const guitar = {
   tools: ["React", "Next.js", "Flutter", "Node.js", "Laravel"],
   challenge: "Building scalable apps everyday 🚀"
 }
+```
 
 🧠 Tech Stack (All Languages Mode 🔥)
 <p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,go,java,php,dart,python,c,cpp,kotlin,swift,rust" /> <br/> <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flutter,laravel,spring,express" /> <br/> <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,firebase,mongodb,postgres,mysql" /> </p>
