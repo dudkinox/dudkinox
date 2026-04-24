@@ -25,9 +25,6 @@ const guitar = {
 🧠 Tech Stack (All Languages Mode 🔥)
 <p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,go,java,php,dart,python,c,cpp,kotlin,swift,rust" /> <br/> <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flutter,laravel,spring,express" /> <br/> <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,firebase,mongodb,postgres,mysql" /> </p>
 
-🏆 Trophy
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=dudkinox&theme=matrix&no-frame=true&column=7&margin-w=10"/> </p>
-
 ⚡ GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dudkinox&show_icons=true&theme=tokyonight&hide_border=true"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dudkinox&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudkinox&layout=compact&theme=tokyonight&hide_border=true"/> </p>
 
