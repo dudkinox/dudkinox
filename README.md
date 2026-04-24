@@ -11,7 +11,6 @@
 ---
 
 ## 👨‍💻 About Me
-```js
 const guitar = {
   name: "Guitar",
   role: "Fullstack Developer",
@@ -39,4 +38,4 @@ const guitar = {
 🌐 Connect With Me
 <p align="center"> <a href="https://web.facebook.com/blind.vlltar"> <img src="https://skillicons.dev/icons?i=facebook"/> </a> <a href="https://www.instagram.com/sorenergame/?hl=en"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> </p>
 
-<!-- FOOTER --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/> </p> ```
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/> </p>
