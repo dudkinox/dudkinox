@@ -1,47 +1,42 @@
-<a href="https://web.facebook.com/groups/625748778716789/?notif_id=1644983509296251&notif_t=group_r2j_approved&ref=notif">
- <p align="center" width="700" height="85">
-  <img src="https://raw.githubusercontent.com/dudkinox/dudkinox/main/img/headerImage.jpeg"></p></a>
-<!-- [![Header](https://raw.githubusercontent.com/dudkinox/dudkinox/main/img/headerImage.jpeg "Header")](https://web.facebook.com/groups/625748778716789/?notif_id=1644983509296251&notif_t=group_r2j_approved&ref=notif)  -->
+<!-- HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=GUITAR%20DEV&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-# กีตาร์
+<!-- TYPING EFFECT -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Mobile+App+Engineer;React+Native+%7C+Next.js+%7C+Go;Build+Everything+🚀" />
+</p>
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=dudkinox&theme=dark_lover&count_private=true&column=7&margin-w=15&margin-h=15)]()
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=dudkinox)](https://github.com/ryo-ma/github-profile-trophy) -->
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=dudkinox&theme=radical&column=7&margin-w=15&margin-h=15)]() -->
+---
 
-<!-- [![HISTORY Github](https://github-readme-streak-stats.herokuapp.com?user=dudkinox&theme=neon-dark&hide_border=false&mode=weekly)](https://github.com/dudkinox/dudkinox) -->
+## 👨‍💻 About Me
+```js
+const guitar = {
+  name: "Guitar",
+  role: "Fullstack Developer",
+  location: "Thailand 🇹🇭",
+  code: ["JavaScript", "TypeScript", "Go", "Java", "PHP", "Dart"],
+  tools: ["React", "Next.js", "Flutter", "Node.js", "Laravel"],
+  challenge: "Building scalable apps everyday 🚀"
+}
 
-🤤 
-I'm work work work and then work. 🤔
+🧠 Tech Stack (All Languages Mode 🔥)
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,go,java,php,dart,python,c,cpp,kotlin,swift,rust" /> <br/> <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flutter,laravel,spring,express" /> <br/> <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,firebase,mongodb,postgres,mysql" /> </p>
 
-You can follow me on,<br>
-<a href = "https://web.facebook.com/blind.vlltar" target="blank">
-  <img src="https://img.icons8.com/fluency/30/000000/facebook-new.png"/>
-</a>
-<a href = "https://www.instagram.com/sorenergame/?hl=en" target="blank"> 
-  <img src="https://img.icons8.com/office/30/000000/instagram-new.png"/>
-</a> 
+🏆 Trophy
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=dudkinox&theme=matrix&no-frame=true&column=7&margin-w=10"/> </p>
 
-Nice to meet you. 🙄
+⚡ GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dudkinox&show_icons=true&theme=tokyonight&hide_border=true"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dudkinox&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudkinox&layout=compact&theme=tokyonight&hide_border=true"/> </p>
 
-<!-- <center> -->
-<!--   <div> -->
-<!--     <img src="https://github-readme-stats.vercel.app/api?username=dudkinox&show_icons=true&theme=dark" height="170" /> -->
-<!--   </div> -->
-<!-- </center> --> 
+📈 Activity Graph
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=dudkinox&theme=react-dark&hide_border=true"/> </p>
 
-### 📊 GitHub Stats: 
---- 
-[![กีตาร์ Stats activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dudkinox&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<!-- ![กีตาร์ github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dudkinox&theme=radical&count_private=true&show_icons=true) -->
-![กีตาร์ Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dudkinox&theme=solarized_dark&count_private=true)
-![กีตาร์ Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dudkinox&theme=solarized_dark&count_private=true)
-![กีตาร์ Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dudkinox&theme=solarized_dark&count_private=true)
+🐍 Contribution Snake (โคตรเท่)
+<p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" /> </p>
 
-<h3 align="center">A passionate fullstack from Thailand </h3>
+🌐 Connect With Me
+<p align="center"> <a href="https://web.facebook.com/blind.vlltar"> <img src="https://skillicons.dev/icons?i=facebook"/> </a> <a href="https://www.instagram.com/sorenergame/?hl=en"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dudkinox)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<p align="left">
-</p> 
-
+<!-- FOOTER --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/> </p> ```
